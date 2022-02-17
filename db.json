@@ -23,6 +23,14 @@
       "harga": 12000,
       "is_ready": true,
       "gambar": "nasi-rames.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg"
     }
   ],
   "products": [
